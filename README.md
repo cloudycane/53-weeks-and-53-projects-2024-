@@ -17,5 +17,8 @@
   <li>Creating new project in Python, naming it "Filter.py", and importing the following modules: <ul><li><i>from Tkinter import *</i></li>
   <li><i>import cv2</i></li>
   </ul>
+  <li>Creating GUI (windows, labels, buttons) with Tkinter</li>
+  <li>Creating functions with OpenCv that will be added in the buttons that are created with Tkinter.</li>
+  <li>Inside these functions there are different filters codified using openCV. The images that are imported can't be read by the openCV in order to process these images we need to convert these labels into arrays. Once we do that, the images can be manipulated with OpenCV.</li>
   </li>
 </ul>
