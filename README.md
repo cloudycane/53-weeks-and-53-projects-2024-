@@ -7,8 +7,15 @@
 <b>Description:</b> Manipulating images with the use of OpenCV (A module for computer vision) and Tkinter's GUIs.<br>
 <b>Programming languages used:</b><br>
 <ul>
+  <li><b>General:</b>Python</li>
   <li><b>Frontend:</b>Tkinter's module</li>
   <li><b>Backend:</b>OpenCV's module (Machine Learning)</li>  
 </ul>
 <br>
-<b>Process:</b>
+<b>Process:</b><br>
+<ul>
+  <li>Creating new project in Python, naming it "Filter.py", and importing the following modules: <ul><li><i>from Tkinter import *</i></li>
+  <li><i>import cv2</i></li>
+  </ul>
+  </li>
+</ul>
